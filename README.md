@@ -2,9 +2,7 @@
 Debemos aprender a chambear
 Por lo tanto, un nuevo reto hay que completar
 
-
-
-28/03/2024 
+28/03/2024: 
 Quisiera dejar en claro que la mayoria de los ejercicios que hago estan basados o directamente hechos en base al canal de YouTube Shakmuria:
 https://www.youtube.com/@Shakmuria
 
