@@ -10,3 +10,6 @@ Y al momento estoy usando la playlist del mismo canal:
 https://www.youtube.com/watch?v=AMV21d47xHs&list=PLDfQIFbmwhremI6UYsjY5jTmu1usrvTJW&index=1
 
 Y supongo que aqui voy a ir actualizando todo lo que vaya haciendo en este reto de los 100 dias, no creo que Java sea el unico lenguaje que este usando, tal vez añada JavaScript, C o C++, ya depende de como lo vea todo :P
+
+01/04/2024
+Prueba 
